@@ -5,7 +5,8 @@ const ContenedorFrase = styled.div`
   padding:2rem;
   border-radius: .5rem;
   background-color:#fff;
-  max-width:800px;
+  max-width:700px;
+  
 
   @media (min-width:5px){
       margin-top:10rem;
@@ -32,7 +33,7 @@ const ContenedorFrase = styled.div`
       font-size: 1rem;
       font-weight: bold;
       text-align: right;
-      color: #666;
+      color: #F56820;
       margin-top:2rem;
   }
 
