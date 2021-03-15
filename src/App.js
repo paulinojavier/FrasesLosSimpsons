@@ -1,5 +1,4 @@
 import React,{useState, useEffect} from 'react';
-import logo from './logo.svg';
 import styled from '@emotion/styled';
 import Frase from './components/Frase';
 
